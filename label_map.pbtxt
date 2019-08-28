@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'RBC'	
+}
+
+item {
+    id: 2
+    name: 'WBC'	
+}
+
+item {
+    id: 3
+    name: 'Platelets'	
+}
