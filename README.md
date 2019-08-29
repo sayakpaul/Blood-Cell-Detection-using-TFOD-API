@@ -74,4 +74,4 @@ I plan to further optimize this model using the [OpenVINO toolkit](https://softw
 
 ## A note of thanks :)
 
-I used GCP ML Engine for training the custom object detection model. I am very thanksful to [Google Developers Expert Program](https://developers.google.com/programs/experts) for providing me with GCP Credits. I am also thankful to them for providing me with [Qwiklabs](https://www.qwiklabs.com/) credit to learn more about GCP. I am thankful to the [TensorFlow Research Cloud](https://www.tensorflow.org/tfrc) team for providing me with Cloud TPU access which indeed helped me speed up the training process to a great extent. 
+I used GCP ML Engine for training the custom object detection model. I am very thanksful to [Google Developers Expert Program](https://developers.google.com/programs/experts) for providing me with GCP Credits. I am also thankful to them for providing me with [Qwiklabs](https://www.qwiklabs.com/) Credits to learn more about GCP. I am thankful to the [TensorFlow Research Cloud](https://www.tensorflow.org/tfrc) team for providing me with Cloud TPU access which indeed helped me speed up the training process to a great extent. 
