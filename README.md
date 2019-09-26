@@ -51,7 +51,7 @@ I have intentionally left some files such as:
 
 I followed the official [TensorFlow Object Detection API documentation](https://github.com/tensorflow/models/tree/master/research/object_detection) and [this article](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193) to kickstart the training process on GCP using ML Engine and Cloud TPUs and also to export the inference graph. 
 
-I used a Faster R-CNN based architecture since it resolves the problem of *selective search* pretty elegantly and yields a pretty good accuracy. The `Model_Checkpoints` folder contains the latest checkpointed files  collected from the training process. 
+I used a Faster R-CNN based architecture since it resolves the problem of *selective search* pretty elegantly and yields a pretty good **mAP of 86%**. The `Model_Checkpoints` folder contains the latest checkpointed files  collected from the training process. 
 
 ## Demo inference
 
